@@ -4,6 +4,8 @@ import { BrowserRouter, Route, Switch } from 'react-router-dom'
 import Landing from './components/Landing';
 import Pricing from './components/Pricing';
 
+console.log("hello")
+
 const App = () => {
     return (
         <div>
